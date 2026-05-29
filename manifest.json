@@ -1,0 +1,21 @@
+{
+  "name": "Meu Site Musical",
+  "short_name": "Meu Site Musical",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0813",
+  "theme_color": "#8b5cf6",
+  "description": "Meu site personalizado de músicas e bandas favoritas.",
+  "icons": [
+    {
+      "src": "fotos/icon.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "fotos/icon.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
